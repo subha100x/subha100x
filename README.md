@@ -17,9 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 ### 🚀 Skills
 - HTML | CSS | JavaScript
@@ -31,9 +29,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
 
 [![Gmail Badge](https://img.shields.io/badge/Email-2018.subhamaji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2018.subhamaji@gmail.com)
-
-
-![Visitor Count](https://api.countapi.xyz/hit/yourusername/visits?style=flat&label=Profile%20Views)
-
-
-
