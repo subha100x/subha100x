@@ -24,11 +24,9 @@
 - C++ | Java (Basics)
 - Git & GitHub
 - 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRnYmdudW5yajR2OHZodGE1Z3E1YmFhc3cyZGUyZzY5Y2hnczNoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
 
 
-
- 
 
 ### 📫 Connect with Me
 
