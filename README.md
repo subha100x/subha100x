@@ -27,7 +27,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
 
-[![Gmail Badge](https://img.shields.io/badge/Email-2018.subhamaji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2018.subhamaji@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-2018.subhamaji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2022.subhamaji@gmail.com)
 
 
 
