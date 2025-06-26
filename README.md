@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ### 🚀 Skills
 - HTML | CSS | JavaScript
