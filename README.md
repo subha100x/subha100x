@@ -31,4 +31,5 @@
 <a href="mailto:2018.subhamaji@gmail.com">Send Email </a>
 
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![Visitor Count](https://api.countapi.xyz/hit/subho100x/profile?style=flat&label=Profile%20Views)
+
