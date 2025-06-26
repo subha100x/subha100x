@@ -27,6 +27,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2018.subhamaji@gmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](<a href="mailto:2018.subhamaji@gmail.com">Send Email</a>
+)
 
 ![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
