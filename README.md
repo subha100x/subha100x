@@ -26,12 +26,14 @@
 - C++ | Java (Basics)
 - Git & GitHub
   
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-
-
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
 
 [![Gmail Badge](https://img.shields.io/badge/Email-2018.subhamaji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2018.subhamaji@gmail.com)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+
+
+
