@@ -24,11 +24,12 @@
 - C++ | Java (Basics)
 - Git & GitHub
 - 
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 
 
  
-  
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
