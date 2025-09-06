@@ -7,7 +7,6 @@
 ### 💫 About Me
 - 🎓 Engineering student | Passionate about Full Stack Development & DSA
 - 🌐 Exploring Web Development, Open Source, and Tech Communities
-- 🚀 Currently committed to: `#100DaysOfCode` | GSSoC 25
 - 💻 Tech I'm diving into: HTML, CSS, JavaScript, Python, C, Java
 
 ---
