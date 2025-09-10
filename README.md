@@ -39,7 +39,7 @@
 
 ### ⚡ Currently Learning
 - Full Stack Web Development (MERN)
-- Data Structures & Algorithms (C++/Java)
+- Data Structures & Algorithms (Java)
 - AI/ML for Data Science
 - Open Source Contributions 🌍
 
