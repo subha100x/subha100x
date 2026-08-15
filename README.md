@@ -20,7 +20,6 @@
 ## 💻 Programming & Backend
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge)
 
@@ -50,36 +49,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-### ⚡ Electrical Inventory & Order Management System
-
-**Python • FastAPI • MySQL • SQLAlchemy • JWT**
-
-A backend application designed for managing electrical products, inventory, customers, and orders through secure REST APIs.
-
-* 🔐 JWT-based authentication
-* 📦 Inventory & product management
-* 🛒 Order management
-* 🗄️ MySQL database with SQLAlchemy ORM
-* 🔌 RESTful API architecture
-
----
-
-### 🤖 RAG Document Search & Q&A System
-
-**Python • ChromaDB • RAG • LLM API • Streamlit**
-
-An AI-powered application that allows users to upload documents, search relevant information, and ask questions using Retrieval-Augmented Generation.
-
-* 📄 Document ingestion & processing
-* 🔎 Vector-based semantic search
-* 🧠 Retrieval-Augmented Generation
-* 🤖 LLM-powered question answering
-* 🖥️ Streamlit interface
 
 ---
 
