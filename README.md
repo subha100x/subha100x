@@ -1,76 +1,112 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Subha+👋;Aspiring+Data+Analyst+📊;SQL+%7C+Python+%7C+Power+BI;Learning+DSA+and+Machine+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Subha+👋;Final-Year+B.Tech+IT+Student+🎓;Aspiring+Software+Development+Engineer+💻;Python+%7C+FastAPI+%7C+SQL+%7C+AI;Building+Backend+%26+AI+Projects+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 Information Technology student passionate about Data Analytics and Problem Solving
-- 📊 Skilled in SQL, Python, Excel, Power BI, and Data Visualization
-- 🤖 Exploring Machine Learning, Data Analysis, and Business Insights
-- 💻 Currently learning Data Structures & Algorithms and improving analytical skills
-- 🚀 Interested in building data-driven solutions and dashboards
+* 🎓 Final-year **Information Technology** student
+* 💻 Aspiring **Software Development Engineer** interested in backend development
+* 🐍 Building applications with **Python, FastAPI, SQL, and REST APIs**
+* 🤖 Exploring **RAG, LLM applications, and AI-powered systems**
+* 🧠 Currently strengthening **DSA, DBMS, OOPs, and Computer Science fundamentals**
+* 🚀 Focused on building practical projects and improving software engineering skills
 
 ---
 
-# 🧰 Tech Stack  
+# 🧰 Tech Stack
 
-## 💻 Programming & Databases
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 💻 Programming & Backend
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge)
 
 ---
 
-## 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 🗄️ Databases & ORM
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" height="40" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="40" alt="Scikit-learn"/>
-</p>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-5A45FF?style=for-the-badge)
+
+---
+
+## 🤖 AI & Machine Learning
+
+![RAG](https://img.shields.io/badge/-RAG-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/-LLM%20APIs-000000?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### ⚡ Electrical Inventory & Order Management System
+
+**Python • FastAPI • MySQL • SQLAlchemy • JWT**
+
+A backend application designed for managing electrical products, inventory, customers, and orders through secure REST APIs.
+
+* 🔐 JWT-based authentication
+* 📦 Inventory & product management
+* 🛒 Order management
+* 🗄️ MySQL database with SQLAlchemy ORM
+* 🔌 RESTful API architecture
+
+---
+
+### 🤖 RAG Document Search & Q&A System
+
+**Python • ChromaDB • RAG • LLM API • Streamlit**
+
+An AI-powered application that allows users to upload documents, search relevant information, and ask questions using Retrieval-Augmented Generation.
+
+* 📄 Document ingestion & processing
+* 🔎 Vector-based semantic search
+* 🧠 Retrieval-Augmented Generation
+* 🤖 LLM-powered question answering
+* 🖥️ Streamlit interface
 
 ---
 
 # ⚡ Currently Learning
 
-- 📈 Advanced SQL for Data Analytics
-- 📊 Power BI Dashboards & DAX
-- 🧠 Machine Learning with Scikit-learn
-- 💡 Data Structures & Algorithms using Python
-- 🗂️ Data Cleaning & Exploratory Data Analysis
+* 🧠 Data Structures & Algorithms using Python
+* 🏗️ Backend Development & REST API Design
+* 🗄️ DBMS & Advanced SQL
+* 🔐 Authentication & API Security
+* 🏛️ Object-Oriented Programming
+* ⚙️ System Design Fundamentals
+* 🤖 LLM & RAG Applications
 
 ---
 
-# 🏆 Projects
+# 🎯 2026 Goals
 
-- 📌 Customer Review Clustering using Machine Learning
-- 📌 Sales Analytics Dashboard using Power BI
-- 📌 Student Performance Analysis using Python & SQL
-
----
-
-# ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+* 💻 Become placement-ready for **Software Development Engineer roles**
+* 🧠 Build strong DSA fundamentals
+* 🚀 Build and deploy production-style projects
+* 🤖 Explore practical AI engineering
+* 📚 Strengthen core CS fundamentals
 
 ---
 
 # 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subha-maji)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/subha-maji)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aec.it.subhamaji@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aec.it.subhamaji@gmail.com)
